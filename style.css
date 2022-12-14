@@ -1,0 +1,7 @@
+.icon {
+    fill: black;
+  }
+  
+  .icon:hover {
+    fill: orange;
+  }
