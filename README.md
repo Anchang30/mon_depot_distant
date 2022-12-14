@@ -4,9 +4,10 @@ Ce fichier est le tout premier qui sera enregistré. \o/
 
 git
     Status : donne l'état des fichiers dans le dossier git
-    Add : ajoute des fichiers pour
-    Commit
+        untracked files : fichiers non suivi par git
+        changes to be comitted : ajouts des modifications au prochain commit
+
+    Add : ajoute des les modifications des fichiers sélectionnés pour faire un commit
+    Commit : réalise une prise de vue, une sauvegarde des modifications apportées aux fichiers ajoutés.
 
 
-untracked files : fichiers non suivi par git
-changes to be comitted : ajouts des modifications au prochain commit
