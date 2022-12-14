@@ -22,3 +22,4 @@ pour revenir à la branche master, git checkout master
 
 branch/merge :
 
+Javi ha estado aqui
