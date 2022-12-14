@@ -11,3 +11,4 @@ git
     Commit : réalise une prise de vue, une sauvegarde des modifications apportées aux fichiers ajoutés.
 
 
+gitk est une commande qui permet d'accéder à une interface visuelle pour voir tous les commits, les modifications, etc ...
